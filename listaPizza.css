@@ -1,0 +1,41 @@
+
+table{
+    background-color: white;
+    font-size: 30px;
+    color: black;
+    margin-top: 7%;
+    margin-left: 8%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(fondo\ para\ prueba.jpeg);
+    padding: auto;
+}
+
+a{
+    font-size: 30px;
+    color: black;
+    text-shadow: 3px 3px 3px green;
+}
+
+button {
+    width: 150px;
+    height: 60px;
+    border: 3px solid #315cfd;
+    border-radius: 45px;
+    transition: all 0.3s;
+    cursor: pointer;
+    background: white;
+    font-size: 1.2em;
+    font-weight: 550;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  button:hover {
+    background: #315cfd;
+    color: white;
+    font-size: 1.5em;
+  }
